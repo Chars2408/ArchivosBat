@@ -1,0 +1,27 @@
+@echo off
+md "sistemas Operativos 2023"
+cd "sistemas Operativos 2023"
+md "Nombre y apellido"
+cd "Nombre y apellido"
+md "Software de sistema"
+cd "Software de sistema"
+md "Sistemas operativos"
+md "Drivers"
+cd..
+md "Software utilitario"
+cd "Software utilitario"
+md "Booteables"
+md "Recuperación de informacion"
+cd..
+md "Software aplicacion"
+cd "Software aplicacion"
+md "procesadores de texto"
+md "hojas de calculo"
+md "Presentaciones"
+cd..
+md "Software de programacion"
+cd "Software de programacion"
+md "Python"
+md "PHP"
+md "C#"
+md "Java"
